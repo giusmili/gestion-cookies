@@ -1,5 +1,5 @@
 <?php
-include_once __DIR__ .'/route/choice_cookie.php';
+include_once __DIR__ .'/controller/choice_cookie.php';
 
 include_once __DIR__ .'/route/header.inc.php'
 ?>
