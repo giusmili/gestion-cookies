@@ -1,7 +1,7 @@
 <?php
 include_once __DIR__ .'/controller/choice_cookie.php';
 
-include_once __DIR__ .'/route/header.inc.php'
+include_once __DIR__ .'/view/header.inc.php'
 ?>
 
 <body>

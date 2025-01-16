@@ -1,6 +1,6 @@
 <?php
     include_once __DIR__ .'/controller/controllerCookie.php';
-    include_once __DIR__ .'/route/header.inc.php'
+    include_once __DIR__ .'/view/header.inc.php'
 ?>
 <!-- head -->
 <body>
@@ -75,7 +75,7 @@
 
   </footer>
     <?php
-        include_once __DIR__ .'/route/message.inc.php'
+        include_once __DIR__ .'/view/message.inc.php'
 
     ?>
 
