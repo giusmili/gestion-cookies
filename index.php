@@ -49,14 +49,19 @@
         </summary>
         <div class="text-container">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis, a animi. Accusamus animi earum reprehenderit rem! Neque corporis aperiam atque asperiores animi provident fugiat quaerat ipsam cupiditate accusantium rerum expedita explicabo id fugit nam beatae ducimus nihil velit, quasi laboriosam quis magnam! Esse, porro sit? Tempore ex, adipisci praesentium quae, mollitia laudantium rem sapiente dignissimos, molestiae eius obcaecati fugiat. Beatae quod iusto voluptas aspernatur amet! Non fugit esse laborum dignissimos voluptatem laboriosam, aliquam voluptate sapiente omnis. Repellat nesciunt eligendi alias quaerat similique minima ut dignissimos amet voluptatem. Minima omnis itaque architecto, minus veritatis, similique ipsam numquam vero, vel quia cupiditate!</p>
-          <a href="http://nouvelle-techno.fr" class="project-link" target="blank" ping="./controller/ping.php">Visit Website</a>
+          <a href="http://nouvelle-techno.fr" 
+          class="project-link" 
+          target="blank" 
+          ping="./controller/ping.php">Visit Website</a>
         </div>
       </details>
       <details>
         <summary><span class="number">2</span><h3>Calculator App</h3></summary>
         <div class="text-container">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores, consequatur dolorum totam quos magni odio, dignissimos nostrum necessitatibus officiis qui blanditiis itaque eaque obcaecati enim repudiandae! Quam incidunt nihil iusto sequi, iste est dolores vitae esse quibusdam sint quod tempore officia blanditiis maiores a nisi. Impedit, tenetur magnam laborum placeat tempore debitis veniam odit minus dignissimos suscipit quam saepe cupiditate distinctio aliquam voluptatum error reprehenderit qui. Sit quisquam, itaque ut excepturi sunt earum quia. Ab exercitationem voluptatum explicabo laboriosam ea excepturi vero optio voluptatem culpa doloremque maiores, amet ipsam beatae architecto recusandae nostrum tempore repudiandae quaerat, unde natus. Inventore, blanditiis.</p>
-          <a class="project-link">Visit Website</a>
+          <a href="http://youtube.com"  target="blank" 
+          ping="./controller/ping.php" 
+          class="project-link">Visit Website</a>
         </div>
       </details>
       <details>
