@@ -44,8 +44,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         // Connexion à la base de données avec PDO
         $dsn = 'mysql:host=localhost;dbname=ping_logs;charset=utf8mb4';
-        $username = 'votre_utilisateur';
-        $password = 'votre_mot_de_passe';
+        $username = 'root';
+        $password = '';
 
         try {
             $pdo = new PDO($dsn, $username, $password, [
