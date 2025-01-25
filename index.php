@@ -49,7 +49,7 @@
         </summary>
         <div class="text-container">
           <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis, a animi. Accusamus animi earum reprehenderit rem! Neque corporis aperiam atque asperiores animi provident fugiat quaerat ipsam cupiditate accusantium rerum expedita explicabo id fugit nam beatae ducimus nihil velit, quasi laboriosam quis magnam! Esse, porro sit? Tempore ex, adipisci praesentium quae, mollitia laudantium rem sapiente dignissimos, molestiae eius obcaecati fugiat. Beatae quod iusto voluptas aspernatur amet! Non fugit esse laborum dignissimos voluptatem laboriosam, aliquam voluptate sapiente omnis. Repellat nesciunt eligendi alias quaerat similique minima ut dignissimos amet voluptatem. Minima omnis itaque architecto, minus veritatis, similique ipsam numquam vero, vel quia cupiditate!</p>
-          <a class="project-link">Visit Website</a>
+          <a href="http://nouvelle-techno.fr" class="project-link" target="blank" ping="./controller/ping.php>Visit Website</a>
         </div>
       </details>
       <details>
